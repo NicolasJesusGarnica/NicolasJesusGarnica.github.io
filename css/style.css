@@ -309,7 +309,7 @@ link h3 {
     margin: 0 25px 5px 185px;
 }
 
-@media(max-width:991px) {
+@media(max-width:767px) {
     .menu {
         padding: 30px;
     }
@@ -423,4 +423,5 @@ link h3 {
         flex-direction: column;
         text-align: center;
     }
+
 }
